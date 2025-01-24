@@ -5,6 +5,10 @@
   <img src="NithLogo_Black_Trace.png" alt="NITH logo." width="150px"/>
 </div>
 </br>
+<div align="center">
+  <img src="readme_files/Combined.png" alt="Screenshot of the operating application, alongside NITHwebcamWrapper." height="300px"/>
+</div>
+</br>
 
 NITHexample is an extremely simple WPF application designed to demonstrate the functionalities of the NITH framework and [NITHlibrary](https://github.com/LIMUNIMI/NITHlibrary). 
 
