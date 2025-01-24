@@ -6,7 +6,7 @@
 </div>
 </br>
 <div align="center">
-  <img src="readme_files/Combined.png" alt="Screenshot of the operating application, alongside NITHwebcamWrapper." height="300px"/>
+  <img src="readme_files/Combined.png" alt="Screenshot of the operating application, alongside NITHwebcamWrapper." height="250px"/>
 </div>
 </br>
 
