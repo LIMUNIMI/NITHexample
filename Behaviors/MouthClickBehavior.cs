@@ -2,8 +2,6 @@
 using NITHlibrary.Nith.Internals;
 using NITHlibrary.Tools.Mappers;
 using NITHtemplate.Modules;
-using System.Globalization;
-using System.Windows;
 
 namespace NITHexample.Behaviors
 {
