@@ -1,7 +1,16 @@
 # NITHexample
 *An application that provides a simple example of how the NITH framework works.*
 
-NITHexample is a straightforward application designed to demonstrate the functionalities of the NITH framework. It showcases how users can interact with their computer using the mouth aperture detected by a webcam.
+<div align="center">
+  <img src="NithLogo_Black_Trace.png" alt="NITH logo." width="150px"/>
+</div>
+
+NITHexample is an extremely simple WPF application designed to demonstrate the functionalities of the NITH framework and [NITHlibrary](https://github.com/LIMUNIMI/NITHlibrary). 
+
+It provides simple mouse emulation through mouth aperture, which controls left mouse button.
+
+## Requirements
+Since it is a WPF application, it requires Windows operating system.
 
 ## Features
 - **Mouse Control via Mouth Movements**: The application allows users to perform mouse clicks by opening and closing their mouths. When the mouth is opened beyond a certain threshold, the left mouse button is clicked down. Conversely, closing the mouth releases the mouse button.
