@@ -17,8 +17,9 @@ It provides simple mouse emulation through mouth aperture, which controls left m
 ## Requirements
 Since it is a WPF application, it requires Windows operating system.
 
-## Features
+## Functionality
 - **Mouse Control via Mouth Movements**: The application allows users to perform mouse clicks by opening and closing their mouths. When the mouth is opened beyond a certain threshold, the left mouse button is clicked down. Conversely, closing the mouth releases the mouse button.
+- **Automatic calibration**: the application automatically calibrates itself and the mouth aperture thresholds while running, while the user moves its mouth. It's advisable to perform a full mouth opening and closure upon application startup.
   
 ## Getting Started
 To run the application, simply launch `NITHexample.exe` located in the `bin/release` directory.
