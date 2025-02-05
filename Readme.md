@@ -13,6 +13,8 @@
 NITHexample is an extremely simple WPF application designed to demonstrate the functionalities of the NITH framework and [NITHlibrary](https://github.com/LIMUNIMI/NITHlibrary). 
 
 It provides simple mouse emulation through mouth aperture, which controls left mouse button.
+Its functionality is trivial and extremely simple, and it's not intended as something "useful" to be used, but instead a simple example for developers to understand how to develop applications within the NITH framework.
+
 
 ## Requirements
 Since it is a WPF application, it requires Windows operating system.
